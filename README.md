@@ -1,1 +1,1 @@
-# machinglearning_class_playdata
+# 머신러닝 주말 
